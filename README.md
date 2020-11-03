@@ -6,13 +6,13 @@ Passionate about technology, I have been studying more and more about the Front-
 
 ##### What I like/love:
 
-  I love programming and helping people to get better in life by programming.
-  Friends
-  Fámily
-  My little dog
-  Waterfalls
-  Trails
-  Cycling  
+  I love programming and helping people to get better in life by programming.\
+  Friends\
+  Fámily\
+  My little dog\
+  Waterfalls\
+  Trails\
+  Cycling\
 
 ##### Some of my latest works:
 
