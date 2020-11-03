@@ -2,8 +2,6 @@
 
 ##### Who I am:
 
-Graduated in Civil Engineering (2018) at State University of Feira de Santana - UEFS, winner of a Brazilian federal government scholarship Science without Borders in Canada in 2014/2015, I have worked as a monitor professor, as a volunteer fellow in research projects at UEFS, Cégep de l'Outaouais in Gatineau - Canada and UNBC - University of Northern British Columbia - Canada.
-
 Passionate about technology, I have been studying more and more about the Front-end development areas, developing personal projects, and programmer skills. Currently, I develop applications using HTML, CSS, JavaScript, React, and I continue studying hard to learn more about this fascinating area.
 
 ##### What I like/love:
