@@ -12,7 +12,7 @@ Passionate about technology, I have been studying more and more about the Front-
 
 
 I love programming and helping people to get better in life by programming. 💻\
-Friends❤️\                                                                              
+Friends❤️                                                                             
 Fámily 👪\
 My little dog 🐶\
 Waterfalls 🌊\
