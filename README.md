@@ -18,7 +18,8 @@ My little dog 🐶\
 Waterfalls 🌊\
 Trails 🌲 \
 Cycling 🚴
-                                                                              
+
+* * *                                                                             
                                                                               
 
 ### Some of my latest works:
