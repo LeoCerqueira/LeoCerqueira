@@ -25,7 +25,7 @@ Cycling 🚴
 ### Some of my latest works:
 
 
-[Espaço Terapêutico Mandala](https://zealous-rosalind-9215e7.netlify.app/)
+[Espaço Terapêutico Mandala](https://espacomandala.netlify.app)
 
   It is about a mental health clinic with three main psychologists. The web page tells about the history, how they are and how to reach them, show their social media and also a form that the user can leave a message.
 
@@ -37,7 +37,7 @@ Cycling 🚴
 
   I could learn a lot from this project taught by professor Maik Brito, from Rocket seat, which was a very intense and productive week.
 
-[André's portfolio](https://sharp-kalam-aa7031.netlify.app/) Unfinished
+[André's portfolio](https://uxandre.netlify.app) Unfinished
 
   This is the project of my brother's portfolio, we were talking about having a portfolio online and decided to start building it, is unfinished. As soon as we have all the photos and texts that we want I will back to it, but it is going well so far, the result is very satisfying. 
   
