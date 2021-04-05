@@ -27,7 +27,7 @@ Cycling 🚴
 
 [Espaço Terapêutico Mandala](https://espacomandala.netlify.app)
 
-  It is about a mental health clinic with three main psychologists. The web page tells about the history, how they are and how to reach them, show their social media and also a form that the user can leave a message.
+  It is about a mental health clinic with five main psychologists. The web page tells about the history, how they are and how to reach them, show their social media and also a form that the user can leave a message.
 
   At this work, I could build a web page from zero, by the time I did it I want to use only HTML and CSS and try to find all the solutions by using only these two languages, so I would push my limits on their possibilities.
 
