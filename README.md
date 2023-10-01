@@ -4,7 +4,7 @@
 
 ### Who I am:
 
-Passionate about technology, I have been studying more and more about the Front-end development areas, developing personal projects, and programming skills. Currently, I develop applications using HTML, CSS, JavaScript, React, and I continue studying hard to learn more about this fascinating area.
+Passionate about technology, I have been dedicating myself to expanding my knowledge in the field of Front-end development. I have been actively engaged in creating personal projects and honing my programming skills. Presently, I am proficient in developing applications using HTML, CSS, JavaScript, and React, and I am committed to continuous learning to delve deeper into this captivating field.
 
 - - -
 
