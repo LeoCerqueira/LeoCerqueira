@@ -14,7 +14,7 @@ Passionate about technology, I have been dedicating myself to expanding my knowl
 I love programming and helping people to get better in life by programming. 💻\
 Friends❤️                                                                             
 Fámily 👪\
-My little dog 🐶\
+My little dog called Rara 🐶\
 Waterfalls 🌊\
 Trails 🌲 \
 Cycling 🚴
